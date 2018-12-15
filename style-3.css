@@ -1,0 +1,63 @@
+body {
+	font-family: 'Rubik', sans-serif;
+	{background-color: coral;}
+
+}
+
+h1 {
+	text-align: center;
+	font-size: 5em;
+	max-width: 580px;
+	margin: 1em auto;
+	padding: 3em 0 0.3em;
+}
+
+div.all {
+	text-align: center;
+	font-size: 1em;
+}
+
+div.caption {
+	position: absolute;
+	bottom: 50;
+	width: 100%;
+}
+
+div.all {
+	width: 20vw; 
+	height: 20vw;
+	position: absolute;
+	bottom: 10vh;
+}
+
+div.batmitvush {
+	width: 70%; 
+	height: 9vw;
+	left: 10vw;
+	bottom: 60vh;
+}
+
+div.quest {
+	width: 70%; 
+	height: 5vw;
+	right: -70vw;
+	bottom: 31vw;
+}
+
+div.article {
+	width: 70%;
+	height: 5vw;
+	left: 10vw;
+	bottom: 10vw;
+}
+
+div.resume {
+	width: 70%; 
+	height: 12vw;
+	right: -70vw;
+	bottom: 10vh;
+}
+
+div.all img {
+	width: 100%;
+}
